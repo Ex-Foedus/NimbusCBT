@@ -1,5 +1,6 @@
 # NimbusCBT
 
+<<<<<<< HEAD
 i don't want to see this in the Foedus repo
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9,3 +10,6 @@ i don't want to see this in the Foedus repo
 =======
 .
 >>>>>>> f6c1c59... added a dot for test
+=======
+npm run dev to start it
+>>>>>>> 260eaaa... Update README.md
