@@ -2,7 +2,10 @@
 nimbusCBT/nimbus/node*
 nimbusCBT/nimbus/package.json
 nimbusCBT/nimbus/package-lock.json
+<<<<<<< HEAD
 nimbus/node_modules/*
+=======
+>>>>>>> e49b89d... guts repo and updates to newest code
 
 # Logs
 logs
