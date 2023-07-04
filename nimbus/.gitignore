@@ -3,9 +3,16 @@ nimbusCBT/nimbus/node*
 nimbusCBT/nimbus/package.json
 nimbusCBT/nimbus/package-lock.json
 <<<<<<< HEAD
+<<<<<<< HEAD
 nimbus/node_modules/*
 =======
 >>>>>>> e49b89d... guts repo and updates to newest code
+
+nimbusCBT/nimbus/.*
+!nimbus/.gitignore
+=======
+nimbus/node_modules/*
+>>>>>>> 65043c9... fixed error in gitignore dot extension
 
 # Logs
 logs
